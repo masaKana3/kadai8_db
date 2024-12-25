@@ -29,6 +29,7 @@
                     <label><input type="radio" name="generation" value="50代" required>50代</label><br>
                     <label><input type="radio" name="generation" value="60代以上" required>60代以上</label><br>
                     <label><input type="radio" name="generation" value="未回答" required>回答したくない</label>
+                    <div class="area-box">
                     <li>居住地</li>
                     <select name="area">
                     <option value="選択してください" >都道府県</option>
@@ -80,6 +81,7 @@
                     <option value="鹿児島県">鹿児島県</option>
                     <option value="沖縄県">沖縄県</option>
                     </select>
+                    </div>
                 </ol>
             </div>
            
